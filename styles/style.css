@@ -52,7 +52,6 @@ text-align: center;
 }
 /* about styles */
 .about-container{
-    border: 2px solid red;
     width: 1140px;
 height: 1395px;
 margin: 0 auto;
@@ -61,3 +60,132 @@ flex-direction: column;
 justify-content: center;
 padding: 80px 97px 80px 97px;
 }
+.about-header{
+  text-align: center;
+}
+.about-header h1{
+  color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+}
+.about-header p{
+  color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+}
+.first-about-content{
+  width: 946px;
+height: 336px;
+display: flex;
+text-align: center;
+padding: 48px;
+}
+.first-about-description{
+width: 50%;
+text-align: left;
+
+}
+.first-about-description h4{
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+}
+.first-about-description p{
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.first-about-btn{
+  border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+width: 150px;
+height: 48px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+}
+.first-about-img{
+  width: 50%;
+text-align: right;
+}
+.second-about-content{
+  width: 946px;
+height: 336px;
+display: flex;
+text-align: center;
+padding: 48px;
+}
+.second-about-description{
+width: 50%;
+text-align: left;
+
+}
+.second-about-description h4{
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+}
+.second-about-description p{
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.second-about-btn{
+  border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+width: 150px;
+height: 48px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+}
+.second-about-img{
+  width: 50%;
+text-align: left;
+}
+.third-about-content{
+  width: 946px;
+height: 336px;
+display: flex;
+text-align: center;
+padding: 48px;
+}
+.third-about-description{
+width: 50%;
+text-align: left;
+
+}
+.third-about-description h4{
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+}
+.third-about-description p{
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.third-about-btn{
+  border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+width: 150px;
+height: 48px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+}
+.third-about-img{
+  width: 50%;
+text-align: right;
+}
+/* inspiration styles */
